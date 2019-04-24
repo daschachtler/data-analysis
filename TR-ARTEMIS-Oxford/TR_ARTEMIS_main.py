@@ -4,7 +4,7 @@ Created on Sun Aug 12 13:29:37 2018
 
 @author: dasch
 """
-import procedures_fit
+import TR_ARTEMIS_procedures
 from matplotlib import cm
 from matplotlib.ticker import LinearLocator, FormatStrFormatter
 import numpy as np
