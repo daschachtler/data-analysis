@@ -1,1 +1,3 @@
-LEEDcorrection.py contains the code which applies a central- and spherical projection on a selected input image.
+-LEEDcorrection.py contains the code which applies a central- and spherical projection on a selected input image.
+-MLPnAg corrected.PNG is the output of LEEDcorrection.py.
+-central projection example.png is an example of just a central projection applied to a rectangle
