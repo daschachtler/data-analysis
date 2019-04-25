@@ -3,7 +3,7 @@
 """
 Created on Wed Apr 01 13:22:01 2015
 
-@author: saturas
+@author: dschac
 """
 
 from pylab import *
